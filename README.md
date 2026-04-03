@@ -2,7 +2,7 @@
 
 This repository contains my personal portfolio website, showcasing my projects, skills, and experience as a software engineer.
 
-🔗 Live Site: https://hksk-create.github.io/
+🔗 Live Site: https://hksk-create.github.io/Portfolio/
 
 ---
 
